@@ -1,0 +1,52 @@
+a.active {
+    background-color: #37474f;
+}
+
+body, .bg{
+    background:#263238 url(../img/carbon-bg.png) !important;height:100%;
+
+}
+
+a.project-name {
+    color: black;
+}
+
+#profile-photo {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+div.about {
+    position: relative;
+    width: 1000px;
+    height: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#headline-text {
+    color: white;
+    padding-left: 50px; 
+    width: 650px;
+    resize: both;
+    text-align: center;
+}
+
+div.portfolio {
+    position: relative;
+    width: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#hr-section {
+    width: 500px;
+
+}
+
+footer {
+
+}
